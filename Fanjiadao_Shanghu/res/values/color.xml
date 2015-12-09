@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <!-- 下边线颜色 -->
+    <color name="line_color">#bebebe</color>
+    <!-- 透明 -->
+    <color name="transparents">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="org">#f57f00</color>
+    <color name="gray">#FFDBDBDB</color>
+    <color name="select_bac">#f0f0f0</color>
+
+</resources>
